@@ -1,5 +1,5 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Pomodoro timer and habit tracker in a pill at the top of your screen",
     "homepage": "https://github.com/nickaqmal02/KaizeNotch",
     "license": "MIT",
@@ -10,8 +10,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nickaqmal02/KaizeNotch/releases/download/v0.1.1/KaizeNotch_0.1.1_x64_portable.zip",
-            "hash": "77c84d0b1570ff1345f881a24fce3e29888d811ca8969f3f9a1909c0858e5bdb"
+            "url": "https://github.com/nickaqmal02/KaizeNotch/releases/download/v0.1.2/KaizeNotch_0.1.2_x64_portable.zip",
+            "hash": "82bcf109c8b8a295593ebd8d091f11ebd729d67aab56dfb35ffae093a221b64e"
         }
     },
     "bin": "KaizeNotch.exe",
