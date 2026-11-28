@@ -1,17 +1,18 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "Pomodoro timer and habit tracker in a pill at the top of your screen",
     "homepage": "https://github.com/nickaqmal02/KaizeNotch",
     "license": "MIT",
     "notes": [
         "Start KaizeNotch from the Start menu, then hover the pill at the top of your screen.",
         "Tray icon -> Start at Login makes it open with Windows.",
-        "Your data is kept in %APPDATA%\\KaizeNotch"
+        "Your data is kept in %APPDATA%\\KaizeNotch",
+        "To update later: quit KaizeNotch (the x in its panel), then run: scoop update; scoop update kaizenotch"
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nickaqmal02/KaizeNotch/releases/download/v0.1.4/KaizeNotch_0.1.4_x64_portable.zip",
-            "hash": "a75e8032fdb305cea47770084f1c634cd23c0434e43c761afc97c24a2d80fc64"
+            "url": "https://github.com/nickaqmal02/KaizeNotch/releases/download/v0.1.5/KaizeNotch_0.1.5_x64_portable.zip",
+            "hash": "d5c85bc2e47ac81a229c8921313cb3b85d683117b585a071975e18be216782f4"
         }
     },
     "bin": "KaizeNotch.exe",
